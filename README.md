@@ -9,3 +9,7 @@
 ### 2. Activity 2: UK Accidents Data Analytics Project
 - **File:** [Activity2.ipynb](./Activity2.ipynb)  
 - **Overview:** An analysis of the UK Accidents dataset, focusing on accident patterns and insights.
+
+### 3. Activity 3: Ph Dengue Analysis
+- **File:** [Activity3.ipynb](./PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
+- **Overview;** 
