@@ -13,3 +13,6 @@
 ### 3. Activity 3: Ph Dengue Analysis
 - **File:** [Activity3.ipynb](./PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
 - **Overview;** 
+
+### Assignment: Data Science Salary
+- **File:** [Palas_Jamaica_SalaryPrediction.ipynb](./Palas_Jamaica_SalaryPrediction.ipynb)
