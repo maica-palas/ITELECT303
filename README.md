@@ -14,5 +14,11 @@
 - **File:** [Activity3.ipynb](./PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
 - **Overview;** 
 
+### 4. Excercise: Housing Train
+- **File:** [Exercise.ipynb](./Machine_Learning_Exercise.1-Copy1.ipynb)
+- **Overview;** Making Prediction Using Decision Tree
+- **File:** [Exercise.ipynb](./Machine_Learning_Exercise.1-linear.ipynb)
+- **Overview;** Making Prediction Using Linear Regression
+
 ### Assignment: Data Science Salary
 - **File:** [Palas_Jamaica_SalaryPrediction.ipynb](./Palas_Jamaica_SalaryPrediction.ipynb)
