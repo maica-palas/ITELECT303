@@ -17,7 +17,7 @@
 ### 4. Excercise: Housing Train
 - **File:** [Exercise.ipynb](./Machine_Learning_Exercise1-Copy1.ipynb)
 - **Overview;** Making Prediction Using Decision Tree
-- **File:** [Exercise(1).ipynb](./Machine_Learning_Exercise.1-linear.ipynb)
+- **File:** [Exercise(1).ipynb](./Machine_Learning_Exercise1-linear.ipynb)
 - **Overview;** Making Prediction Using Linear Regression
 
 ### Assignment: Data Science Salary
