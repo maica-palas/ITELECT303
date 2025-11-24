@@ -4,24 +4,23 @@
 
 ### 1. Activity 1: Palmer Penguins Data Analytics Project
 - **File:** [activity1.ipynb](./activity1.ipynb)  
-- **Overview:** A data exploration project using the Palmer Penguins dataset.
+- **Description:** A data exploration project using the Palmer Penguins dataset.
 
 ### 2. Activity 2: UK Accidents Data Analytics Project
 - **File:** [Activity2.ipynb](./Activity2.ipynb)  
-- **Overview:** An analysis of the UK Accidents dataset, focusing on accident patterns and insights.
+- **Description:** An analysis of the UK Accidents dataset, focusing on accident patterns and insights.
 
 ### 3. Activity 3: Ph Dengue Analysis
 - **File:** [Activity3.ipynb](./PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
-- **Overview;** 
-
+- **Description;**  Data Analytics of Dengue Cases in all Regions
 ### 4. Excercise: Housing Train
 - **File:** [Exercise.ipynb](./Machine_Learning_Exercise1-Copy1.ipynb)
-- **Overview;** Making Prediction Using Decision Tree
+- **Description;** Making Prediction Using Decision Tree
 - **File:** [Exercise(1).ipynb](./Machine_Learning_Exercise1-linear.ipynb)
-- **Overview;** Making Prediction Using Linear Regression
+- **Description;** Making Prediction Using Linear Regression
 
 ### Assignment: Data Science Salary
 - **File:** [Palas_Jamaica_SalaryPrediction.ipynb](./Palas_Jamaica_SalaryPrediction.ipynb)
 
-### Handson: 
-- **File:** [Palas_Jamaica_SalaryPrediction.ipynb](./Palas_Jamaica_SalaryPrediction.ipynb)
+### Handson: Chicago Crimes
+- **File:** [palas_midterm.ipynb](./palas_midterm.ipynb)
