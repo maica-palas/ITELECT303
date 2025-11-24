@@ -24,3 +24,9 @@
 
 ### Handson: Chicago Crimes
 - **File:** [Midterms](./palas_midterms.ipynb)
+
+
+### 7: Movie Gross Visualization
+- **File:** [Movie Visualization (Downloadable)](./movie_gross_visualization.pbix)
+- **File:** [Screenshot 1](./Screenshot (358).png)
+- **File:** [Screenshot 2](./Screenshot (357).png)
