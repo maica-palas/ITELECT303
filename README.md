@@ -13,7 +13,8 @@
 ### 3. Activity 3: Ph Dengue Analysis
 - **File:** [Dengue Alaysis](./PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
 - **Description;**  Data Analytics of Dengue Cases in all Regions
-### Excercise: Housing Train
+  
+### Excercise: Housing
 - **File:** [Decision Tree](./Machine_Learning_Exercise1-Copy1.ipynb)
 - **Description;** Making Prediction Using Decision Tree
 - **File:** [Linear Regression](./Machine_Learning_Exercise1-linear.ipynb)
