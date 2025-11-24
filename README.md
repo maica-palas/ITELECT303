@@ -23,4 +23,4 @@
 - **File:** [Palas_Jamaica_SalaryPrediction.ipynb](./Palas_Jamaica_SalaryPrediction.ipynb)
 
 ### Handson: Chicago Crimes
-- **File:** [palas_midterm.ipynb](./palas_midterm.ipynb)
+- **File:** [Midterms](./palas_midterms.ipynb)
