@@ -13,7 +13,7 @@
 ### 3. Activity 3: Ph Dengue Analysis
 - **File:** [Dengue Alaysis](./PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
 - **Description;**  Data Analytics of Dengue Cases in all Regions
-### 4. Excercise: Housing Train
+### Excercise: Housing Train
 - **File:** [Decision Tree](./Machine_Learning_Exercise1-Copy1.ipynb)
 - **Description;** Making Prediction Using Decision Tree
 - **File:** [Linear Regression](./Machine_Learning_Exercise1-linear.ipynb)
@@ -24,7 +24,9 @@
 
 ### Handson: Chicago Crimes
 - **File:** [Midterms](./palas_midterms.ipynb)
-
+- 
+### Regression
+- **File:** [LogisticRegression2](./LogisticRegression2.ipynb)
 
 ### 7: Movie Gross Visualization
 - **File:** [Movie Visualization (Downloadable)](./movie_gross_visualization.pbix)
