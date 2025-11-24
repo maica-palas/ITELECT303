@@ -29,6 +29,11 @@
 ### Regression
 - **File:** [LogisticRegression2](./LogisticRegression2.ipynb)
 
+### 6: Titanic Survavility
+- **File:** [Tiranic Survavility](./TitanicSurvavility_MachineLearning.ipynb)
+- **Description;** This is an activity centered on binary classification for Titanic survival, leveraging Logistic Regression and Random Forest models to analyze and interpret the dominant influence of features like Gender and Class on survival outcomes, achieving predictive accuracy around 78% after data preprocessing
+
+
 ### 7: Movie Gross Visualization
 - **File:** [Movie Visualization (Downloadable)](./movie_gross_visualization.pbix)
 - **File:** [Imgae](./visualization.png)
