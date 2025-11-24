@@ -22,3 +22,6 @@
 
 ### Assignment: Data Science Salary
 - **File:** [Palas_Jamaica_SalaryPrediction.ipynb](./Palas_Jamaica_SalaryPrediction.ipynb)
+
+### Handson: 
+- **File:** [Palas_Jamaica_SalaryPrediction.ipynb](./Palas_Jamaica_SalaryPrediction.ipynb)
