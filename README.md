@@ -13,12 +13,17 @@
 ### 3. Activity 3: Ph Dengue Analysis
 - **File:** [Dengue Alaysis](./PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
 - **Description;**  Data Analytics of Dengue Cases in all Regions
+
+### 4. Activity 4: Dengue Cases in the Philippines (2016–2020) Linear Regression
+- **File:** [Dengue Cases in the Philippines (2016–2020) Linear Regression](./degue_linear_reg.ipynb)
+- **Description;**  Data Analytics of Dengue Cases in all Regions
+ 
   
 ### Excercise: Housing
 - **File:** [Decision Tree](./Machine_Learning_Exercise1-Copy1.ipynb)
 - **Description;** Making Prediction Using Decision Tree
 - **File:** [Linear Regression](./Machine_Learning_Exercise1-linear.ipynb)
-- **Description;** Making Prediction Using Linear Regression
+- **Description;** A dataset containing monthly dengue cases, deaths, regions, and date information was processed and analyzed. The data was cleaned, converted into time-series format, and grouped into monthly and yearly aggregates. Using these processed values, a series of visualizations were created to uncover patterns in dengue transmission.
 
 ### Assignment: Data Science Salary
 - **File:** [Salary Prediction](./Palas_Jamaica_SalaryPrediction.ipynb)
